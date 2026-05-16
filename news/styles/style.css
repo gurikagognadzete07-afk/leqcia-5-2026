@@ -1,0 +1,191 @@
+h1 {
+	width: 223px;
+	height: 58px;
+	font-weight: 700;
+	font-size: 48px;
+	color: rgba(48, 203, 194, 1);
+	font-family: monospace;
+	margin-top: 54px;
+	margin-left: 52px;
+	margin-right: 60px;
+	display: inline-block;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+li {
+	display: inline-block;
+}
+
+a {
+
+	display: inline-block;
+	text-decoration: none;
+
+}
+.nav {
+font-weight: 700;
+font-size: 26px;
+color: rgba(141, 129, 255, 1);
+
+}
+
+#active {
+	color:rgba(78, 111, 174, 1) ;
+}
+
+#m1 {
+	margin-right: 87px;
+
+}
+
+#m2 {
+margin-right: 81px;
+}
+
+#html {
+	width: 1052px;
+	height: 462px;
+	margin-top: 97px;
+	margin-left: 194px;
+	margin-right: 194px;
+
+}
+
+h5 {
+	display: inline-block;
+}
+
+.parent {
+	margin-left: 140px;
+	display: flex;
+}
+
+.child {
+	width: 500px;
+	height: 250px;
+	background-color:rgba(231, 231, 231, 1);
+	display: inline-block;
+	margin-right: 52px;
+	vertical-align: bottom;
+	padding: 23px 21px;
+	box-sizing: border-box;
+	margin-top: 26px;
+	
+}
+
+.first {
+	margin-right: 52px;
+	
+}
+
+
+h2 {
+
+	width: 150px;
+	height: 34px;
+	font-weight: 700;
+	font-size: 26px;
+	color: rgba(78, 111, 174, 1);
+	margin-left:194px ;
+	margin-top: 120px;
+	display: inline-block;
+	}
+
+
+
+
+#line {
+	width: 2px;
+	height: 20px;
+	background-color: rgba(80, 18, 213, 1);
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 8px;
+}
+
+p {
+
+	width: 484px;
+	height: 34px;
+	font-weight: 400;
+	font-size: 26px;
+	color: rgba(78, 111, 174, 1);
+	display: inline-block;
+}
+
+
+.title {
+
+	width:307px ;
+	height:24px ;
+	font-weight:400 ;
+	font-size:20px ;
+	color: rgba(63, 65, 69, 1);
+	vertical-align: top;
+	display: block;
+}
+
+#im1 {
+	width: 77px;
+	height: 77px;
+	
+}
+
+#im2 {
+	width: 89px;
+	height: 89px;
+	
+}
+
+.text {
+
+	width: 335px;
+	height: 95px;
+	font-weight: 400;
+	font-size: 16px;
+	color: rgba(126, 136, 152, 1);
+	float: right;
+
+
+}
+
+
+#fb {
+	margin-left: 194px;
+	margin-right: 0px;
+	width: 50px;
+	height: 50px;
+	margin-top: 91px;
+
+}
+
+
+#line2 {
+	width: 2px;
+	height: 48px;
+		background-color: rgba(80, 18, 213, 1);
+		display: inline-block;
+		margin: 0px 41px;
+}
+
+#yt {
+
+	width: 71px;
+	height: 49px;
+	margin-right: 0px;
+
+	margin-top: 91px;
+
+}
+
+
+
+
+
+
+

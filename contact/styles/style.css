@@ -47,61 +47,54 @@ color: rgba(141, 129, 255, 1);
 margin-right: 81px;
 }
 
-.date {
+div {
 
-	width: 50px;
-	height: 50px;
-	background-color: rgba(80, 18, 213, 1);
-	color: rgba(132, 255, 129, 1);
-	font-size: 24px;
-	padding: 8px 12px;
-	box-sizing: border-box;
+	width:1660px ;
+	height:735px ;
+	background-color: rgba(231, 231, 231, 1);
+	padding-top: 93px;
+	padding-left: 162px;
+	padding-bottom: 93px;
 
-}
-
-.month {
-	width: 70px;
-	height: 34px;
-	font-weight: 400;
-	font-size: 24px;
-	color: rgba(141, 129, 255, 1);
-	margin-left: 52px;
-}
-
-h5 {
-
-	width: 578px;
-	height: 34px;
-	font-weight: 700;
-	color: rgba(78, 111, 174, 1);
-	font-size: 20px;
-	margin-top: 8px;
-}
-
-article {
-	margin-left: 63px;
-}
-
-.content {
-	margin-top: 14px;
 
 }
 
-img {
-	float: left;
-	margin-right: 66px;
+h2 {
+
+	width:474px ;
+	height:34px ;
+	font-weight:700 ;
+	font-size:36px ;
+	color:rgba(78, 111, 174, 1) ;
+	display: inline-block;
+
 }
 
-.text {
-	
-	font-weight: 400;
-	font-size: 16px;
-	color: rgba(78, 111, 174, 1);
+
+p {
+
+	width:307px;
+	height:24px ;
+	font-weight:400 ;
+	font-size:20px ;
 }
+
+
+iframe {
+	float: right;
+	width: 944px;
+	height: 549px;
+	display: flex;
+	margin-right: 163px;
+	margin-bottom: 200px;
+
+}
+
 
 #fb {
-	margin-left: 52px;
+	margin-left: 96px;
 	margin-right: 0px;
+	margin-top: 104px;
 	width: 50px;
 	height: 50px;
 
@@ -114,7 +107,9 @@ img {
 		background-color: rgba(80, 18, 213, 1);
 		display: inline-block;
 		margin: 0px 41px;
-		float: none;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
 }
 
 #yt {
@@ -122,6 +117,5 @@ img {
 	width: 71px;
 	height: 49px;
 	margin-right: 0px;
-	float: none;
 
 }
