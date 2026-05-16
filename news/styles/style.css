@@ -9,6 +9,8 @@ h1 {
 	margin-left: 52px;
 	margin-right: 60px;
 	display: inline-block;
+	font-family: inter,monospace;
+
 }
 
 ul {
@@ -31,6 +33,7 @@ a {
 font-weight: 700;
 font-size: 26px;
 color: rgba(141, 129, 255, 1);
+font-family: "BPG Arial", sans-serif;
 
 }
 
@@ -94,6 +97,7 @@ h2 {
 	margin-left:194px ;
 	margin-top: 120px;
 	display: inline-block;
+	font-family: "BPG Arial", sans-serif;
 	}
 
 
@@ -116,6 +120,7 @@ p {
 	font-size: 26px;
 	color: rgba(78, 111, 174, 1);
 	display: inline-block;
+	font-family: "BPG Arial", sans-serif;
 }
 
 
@@ -128,6 +133,7 @@ p {
 	color: rgba(63, 65, 69, 1);
 	vertical-align: top;
 	display: block;
+	font-family: roboto;
 }
 
 #im1 {
@@ -150,6 +156,8 @@ p {
 	font-size: 16px;
 	color: rgba(126, 136, 152, 1);
 	float: right;
+	font-family: roboto;
+
 
 
 }
